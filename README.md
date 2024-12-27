@@ -1,6 +1,7 @@
 - 👋✨ Hi, I’m @daylightgrip
-- 👀 I’m interested in computer vision, making films, and basic website development.
-- 🌱 I’m currently learning .netcore and kofta.
+- 👀 I’m interested in computer vision, novel forms of collaboration, and AR.
+- I work in logistics and event planning.
+- 🌱 I’m currently learning plan9
 - 💞️ I’m looking to collaborate on Video projects, screenwriting, and anything using Vuzix glasses
 - 📫 How to reach me: by direct message
 
